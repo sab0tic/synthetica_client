@@ -3,7 +3,7 @@
 
  "libraries": [
     {
-      "name": "net.minecraftforge:forge:1.7.10-10.13.2.1352-1.7.10:universal",
+      "name": "net.minecraftforge:forge:1.7.10-10.13.4.1448-1.7.10:universal",
       "url": "http://ftb.cursecdn.com/FTB2/maven/",
 	  "checksums" : [ "70ae2dd8de7fd041d6dbc7d38dc4aa12a125b827"]
     },
@@ -98,5 +98,5 @@
     }
   ],
   "mainClass": "net.minecraft.launchwrapper.Launch",
-  "id": "1.7.10-Forge10.13.2.1352-1.7.10:universal"
+  "id": "1.7.10-Forge10.13.4.1448-1.7.10:universal" 
   }

@@ -125,5 +125,59 @@
         "dimensions": [
             1
         ]
+    },
+    "salt": {
+        "template": "uniform",
+        "block": {"name": "Magneticraft:salt_ore"},
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 5,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tungsten": {
+        "template": "uniform",
+        "block": {"name": "Magneticraft:tungsten_ore"},
+        "clusterSize": 6,
+        "numClusters": 2,
+        "minHeight": 3,
+        "maxHeight": 13,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "thorium": {
+        "template": "uniform",
+        "block": {"name": "Magneticraft:thorium_ore"},
+        "clusterSize": 6,
+        "numClusters": 5,
+        "minHeight": 3,
+        "maxHeight": 23,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
     }
 }
